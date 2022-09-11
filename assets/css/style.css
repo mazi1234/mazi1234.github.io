@@ -1048,3 +1048,6 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.img-fluid {
+  border-radius: 50%;
+}
